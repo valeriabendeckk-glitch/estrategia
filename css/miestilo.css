@@ -1,0 +1,72 @@
+.icon-lg {
+    font-size: 50px;
+    color: #198754;
+}
+
+#topbar{
+    background-color: #09947d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#topbar span{
+    color: white;
+    font-weight: bold;
+}
+
+.icon-blanco{
+    color: white;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+#hero{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #09947809;
+}
+
+.img-redonda{
+    border-radius: 20px;
+}
+
+#servicios-iconos{
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+.icono-servicios{
+    background-color: #09947831;
+    padding: 20px;
+    font-size: 50px;
+    color: #198754;
+     border-radius: 55px;
+}
+
+.titulo-about{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.numeros{
+    font-size: 60px;
+    color: #198754;
+    font-weight: lighter;
+}
+
+.letras-gris{
+    color: gray;
+    text-transform: uppercase;
+}
+
+#newsletter{
+    background-color: #09947831;
+    padding: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
